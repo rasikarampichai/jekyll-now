@@ -13,4 +13,4 @@ rasika  rampichai
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rasika.rcs57@ubru.ac.th](mailto:rasika.rcs57@ubru.ac.th)
