@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: About rasika
 permalink: /about/
 ---
 
-Some information about you!
+rasika  rampichai
+57122420509 
 
 ### More Information
 
